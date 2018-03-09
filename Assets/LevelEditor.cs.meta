@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 535bdaa04a22a41499313df151a3668f
+timeCreated: 1519943126
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - floorPrefab: {fileID: 1647143377309084, guid: 3c54160b29e7f49b48b714cec55b2c53,
+      type: 2}
+  - wallPrefab: {fileID: 1010205753545728, guid: b529bfded1d284902b22ab62bf183264,
+      type: 2}
+  - playerPrefab: {fileID: 1742191130547580, guid: bdefb4fc603a64712a2c0eaddd4b149b,
+      type: 2}
+  - blockPrefab: {fileID: 1386473975838546, guid: a187498f42bb5482cbc26d8a1120dde2,
+      type: 2}
+  - dangerPrefab: {fileID: 1756540490283204, guid: 7829d117c1fa24d788f9b24b1eeac27c,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
